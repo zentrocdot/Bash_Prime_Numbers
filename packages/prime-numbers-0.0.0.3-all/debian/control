@@ -1,0 +1,13 @@
+Source: prime-numbers
+Section: utils
+Priority: optional
+Maintainer: Dr. Peter Netz <zentrocdot@protonmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+
+Package: prime-numbers
+Architecture: all
+Depends: ${misc:Depends}, bc
+Description: Calculate prime numbers
+ Calculate prime numbers
