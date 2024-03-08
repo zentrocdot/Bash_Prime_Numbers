@@ -1,10 +1,10 @@
 # README
 
-<p align="justify">The program prints the prime numbers in a given range from 0 to n.</p>
+<p align="justify">The program prints the prime numbers in a given range from 0 to n. The number separator in the output is a simple space.</p>
 
 ## Motivation
 
-<p align="justify">Write a simple program for calculating prime numbers which are printed in one line without trailing line break.</p>
+<p align="justify">Write a simple program for calculating prime numbers which are printed in one line without trailing line break. The program is intended to work as simple generator of prime numbers for other scripts. For prime numbers less than 100000 the underlying algorithms is fast enough.</p>
 
 ## Pseudo Code
 
