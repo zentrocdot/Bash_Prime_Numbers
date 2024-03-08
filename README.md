@@ -48,12 +48,15 @@
     
 ## References
 
-[1]    github.com/guidotheelen/prime_numbers/blob/master/lib/prime_numbers.dart
+[1]    manpages.ubuntu.com/manpages/noble/en/man1/primesieve.1.html
 
-[2]    manpages.ubuntu.com/manpages/noble/en/man1/primesieve.1.html
+[2]    manpages.ubuntu.com/manpages/noble/man1/matho-primes.1.html
 
-[3]    manpages.ubuntu.com/manpages/noble/man1/matho-primes.1.html
+## See also
 
-[4]    rimonmostafiz.github.io/blog/sieve-of-eratosthenes-memory-efficient-implementation/
+[GT]    github.com/guidotheelen/prime_numbers/blob/master/lib/prime_numbers.dart
+
+[RM]    rimonmostafiz.github.io/blog/sieve-of-eratosthenes-memory-efficient-implementation/
+
 
 
