@@ -1,6 +1,6 @@
 # README
 
-<p align="justify">to-do ...</p>
+<p align="justify">The program prints the prime numbers in a given range from 0 to n.</p>
 
 ## Motivation
 
