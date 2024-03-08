@@ -1,2 +1,3 @@
-# Bash_Prime_Numbers
-Calculation of Prime Number s using bash
+# prime-numbers
+
+Calculation of Prime Number using bash
