@@ -4,7 +4,7 @@
 
 ## Motivation
 
-<p align="justify">Write a simple program for calculating prime numbers which are printed in one line without trailing line break. The program is intended to work as simple generator of prime numbers for other scripts. For prime numbers less than 100000 the underlying algorithms is fast enough.</p>
+<p align="justify">Motivation was to writing a simple program for calculating prime numbers which are printed in one line without a trailing line break. The program is intended to work as simple generator of prime numbers for other scripts. For prime numbers less than 100000 the underlying algorithms is fast enough.</p>
 
 ## Pseudo Code
 
@@ -42,9 +42,17 @@
 
 <p align="justify">The prime numbers in a range of 0 to 1000 are printed without line break.</p>
 
+## Outstanding issues
+
+<p align="justify">Writing this program I had in mind to compare the results from Bash with other programming languages like Python and C/C++. Open issue is the question how the memory managment can be optimised. It is also of interest how the calculation time can be reduced by change of the programming language and by modifying the code.</p>
+
+## To-Do
+
+<p align="justify">The range of calculated prime numbers should be variable in the future. It should also be possible to get prime numbers or composite numbers. It should also be possible to consecutive prime numbers. And the program should be able to print the number of counted prime numbers or composite numbers. The package needs also a function if a number is a prime number or a composite number.</p>
+
 ## Other Prime Number Programs
 
-<p align="justify">I found so far two over Ubuntu installable programs with which prime numbers can be calculated [2,3].</p>
+<p align="justify">I found so far two over Ubuntu installable programs with which prime numbers can be calculated [1,2].</p>
     
 ## References
 
