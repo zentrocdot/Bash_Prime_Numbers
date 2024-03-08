@@ -1,0 +1,19 @@
+prime-numbers (0.0.0.3-all) noble; urgency=medium
+
+  * Minor changes of the package content
+  * Command line arguments added
+  * Manual page added
+
+ -- Dr. Peter Netz <zentrocdot@protonmail.com>  Fri, 08 Mar 2024 14:57:12 +0100
+
+prime-numbers (0.0.0.2-all) noble; urgency=medium
+
+  * Minor changes of the package content
+
+ -- Dr. Peter Netz <zentrocdot@protonmail.com>  Fri, 08 Mar 2024 12:10:35 +0100
+
+prime-numbers (0.0.0.1-all) noble; urgency=medium
+
+  * Initial release
+
+ -- Dr. Peter Netz <zentrocdot@protonmail.com>  Fri, 08 Mar 2024 06:11:05 +0100
